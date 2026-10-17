@@ -1,0 +1,11 @@
+{
+  "org": "skypilot-org",
+  "repo": "skypilot",
+  "versions": [
+    {
+      "commit": "8d91efff99c0d81e4aff6b9f1ad423ce1e19a306",
+      "tag": "v1.0.0.dev20261017",
+      "parsed_at": "2026-10-17T10:27:40.324232+00:00"
+    }
+  ]
+}
