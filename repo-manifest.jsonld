@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/skypilot-org/skypilot/commit/8d91efff99c0d81e4aff6b9f1ad423ce1e19a306",
       "git:hexsha": "8d91efff99c0d81e4aff6b9f1ad423ce1e19a306",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v1.0.0.dev20261017"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v1.0.0.dev20261017",
+      "repolex:parsedAt": "2026-10-17T10:27:40.323264+00:00"
     },
     {
       "@id": "https://repolex.ai/r/skypilot-org/skypilot/commit/8615bc7a6c5a6c451cfcb51d28bdefbb156e7798",
